@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Zhenyang</key>
+	<dict>
+		<key>name</key>
+		<string>Zhenyang</string>
+		<key>email</key>
+		<string>392609144@qq.com</string>
+		<key>birth</key>
+		<integer>1995</integer>
+		<key>pass</key>
+		<integer>8482</integer>
+		<key>image</key>
+		<string>/Users/ZhenyangZhong/cs/bridge/bridge/20130804012655_EUAKW.thumb.700_0.jpeg</string>
+	</dict>
+</dict>
+</plist>
